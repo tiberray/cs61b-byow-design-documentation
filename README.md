@@ -21,4 +21,4 @@ Efficient Data Retrieval: Navigating the world and processing real-time interact
 
 Logical Design: Building this engine demanded strong problem-solving skills to manage various states and ensure the integrity of the generated data—critical skills for cleaning, transforming, and validating public datasets for data-driven diagnostic tools.
 
-Note: The source code is maintained in a private repository to comply with academic integrity policies. Access to the raw algorithms, execution instructions, and game engine is available upon request.
+Note: The source code is maintained in a private repository to comply with academic integrity policies. Access to the raw algorithms, execution instructions, and game engine is available upon request. **View the BYOW-feature-photos folder for a compilation of screengrabs showcasing the features added to the game.**
